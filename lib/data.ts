@@ -15,14 +15,15 @@ const data = {
     },
     {
       name: 'Free Shirt',
-      slug: 'free-shirt',
+      slug: 'free-shirt1',
       image: '/images/shirt1.jpg',
       price: 70,
       brand: 'Outfitters',
       rating: 4.5,
       numReviews: 8,
       countInStock: 20,
-      description: 'A popular Shirt',
+      description:
+        'Voluptate laborum deserunt et commodo amet tempor labore. Incididunt anim nisi magna eiusmod. Fugiat esse est fugiat nulla dolor cupidatat consequat. Ea excepteur pariatur consectetur pariatur.',
       isFeatured: true,
       banner: '/images/banner1.jpg',
     },
